@@ -1,0 +1,43 @@
+[
+      {
+        "id": 1,
+        "cover": "https://i.ibb.co/1McwQDp/1.jpg",
+        "author_img": "https://i.ibb.co/Y86x2X0/boy1.png",
+        "author_name": "John Doe",
+        "blog_date": "Mar 14 (4 Days ago)",
+        "read_time": 5,
+        "title": "How to get your first job as a self-taught programmer",
+        "keywords": ["json", "fake data", "web development"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/QQfX8c0/2.png",
+        "author_img": "https://i.ibb.co/StMvwjj/boy2.jpg",
+        "author_name": "Jane Smith",
+        "blog_date": "Apr 14 (12 Days ago)",
+        "read_time": 7,
+        "title": "Building Responsive Websites 2",
+        "keywords": ["html", "css", "responsive design"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/Rh8MYdT/3.png",
+        "author_img": "https://i.ibb.co/TPj0VBT/girl1.jpg",
+        "author_name": "David Johnson",
+        "blog_date": "Mar 14 (4 Days ago)",
+        "read_time": 6,
+        "title": "JavaScript Best Practices 3",
+        "keywords": ["javascript", "coding", "best practices"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/JcvCFNC/4.jpg",
+        "author_img": "https://i.ibb.co/8rGG0Cv/girl2.jpg",
+        "author_name": "Emily Brown",
+        "blog_date": "Mar 10 (2 Days ago)",
+        "read_time": 8,
+        "title": "UX/UI Design Principles 4",
+        "keywords": ["ux", "ui", "design principles"]
+      }
+    ]
+  
